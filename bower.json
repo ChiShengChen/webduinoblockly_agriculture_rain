@@ -1,0 +1,19 @@
+{
+  "name": "webduino-module-rain",
+  "description": "Rain guage Module for Webduino",
+  "main": "rain.js",
+  "authors": "",
+  "license": "MIT",
+  "keywords": [
+    "arduino",
+    "webduino",
+    "rain guage"
+  ],
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ]
+}
