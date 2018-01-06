@@ -1,0 +1,1 @@
+MSG.catRain = "雨量";

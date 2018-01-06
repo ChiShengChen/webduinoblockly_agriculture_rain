@@ -1,0 +1,15 @@
+{
+  "types": ["rain_setup","rain_pin","rain_sencing","rain_display"],
+  "category": "catMenu3",
+  "scripts": [
+    "blockly/blocks.js",
+    "blockly/javascript.js"
+  ],
+  "dependencies": [
+    "Rain.js",
+    "Rain-blockly.js"
+  ],
+  "msg": "blockly/msg",
+  "blocksMsg": "blockly/msg/blocks",
+  "toolbox": "blockly/toolbox.xml"
+}

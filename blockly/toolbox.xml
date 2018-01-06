@@ -1,0 +1,15 @@
+<category id="catRain">
+  <block type="variables_set">
+    <field name="VAR">rain</field> 
+    <value name="VALUE">
+      <block type="rain_pin">
+        <field name="uno_Dpin1">2</field>
+      </block>
+    </value>
+  </block>
+  <block type="rain_sencing"></block>
+  <block type="rain_display">
+    <field name="rain">rain</field>
+  </block>
+
+</category>

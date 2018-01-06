@@ -23,7 +23,7 @@ Blockly.JavaScript['rain_sencing'] = function(block) {
 };
 
 Blockly.JavaScript['rain_display'] = function(block) {
-  var variable_bme280 = Blockly.JavaScript.variableDB_.getName(block.getFieldValue('BME280'), Blockly.Variables.NAME_TYPE);
+  var variable_rain = Blockly.JavaScript.variableDB_.getName(block.getFieldValue('rain'), Blockly.Variables.NAME_TYPE);
   // TODO: Assemble JavaScript into code variable.
   var code = '...';
   // TODO: Change ORDER_NONE to the correct strength.

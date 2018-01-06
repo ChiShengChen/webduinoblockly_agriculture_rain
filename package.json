@@ -2,7 +2,7 @@
   "name": "webduino-module-rain",
   "version": "1.0.0",
   "description": "BME280 Module for Webduino",
-  "main": "rain.js",
+  "main": "Rain.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
