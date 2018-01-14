@@ -42,6 +42,8 @@ Blockly.Blocks['rain_sencing'] = {
     this.setColour(65);
  this.setTooltip("");
  this.setHelpUrl(mainUrl + 'basic/index.html' + utmUrl);
+  }
+};
 
 Blockly.Blocks['rain_display'] = {
   init: function() {
